@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396773678607",
+    "project_id": "eitk-2e5da",
+    "storage_bucket": "eitk-2e5da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396773678607:android:0208debc6a0f2f07598d7a",
+        "android_client_info": {
+          "package_name": "com.example.eitk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396773678607-24d6to1258pvqs8ppkqse7sam4cqdila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3SvOTVLMHV4ZYji_qVYfH0VU20cAJvVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396773678607-24d6to1258pvqs8ppkqse7sam4cqdila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
